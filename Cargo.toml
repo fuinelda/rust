@@ -1,0 +1,9 @@
+[package]
+
+name="rust_tutorial"
+version = "0.0.1"
+authors = ["Zhcho <fuinelda@gmail.com>"]
+
+[dependencies]
+
+rand = "*"
